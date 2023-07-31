@@ -1,0 +1,12 @@
+Com/Ecommerce/Utilities/Mytransfomer.class
+Com/Ecommerce/PageClasses/TC_NewRegistration.class
+Com/Ecommerce/PageClasses/TC_Ecommerce_Login_Page.class
+Com/Ecommerce/Utilities/GenericUtils.class
+Com/Ecommerce/Utilities/XLSUtils.class
+Com/Ecommerce/Utilities/WaitUtils.class
+Com/Ecommerce/PageClasses/TC_Ecommerce_AddToCart.class
+Com/Ecommerce/Utilities/ExtentReportsNG.class
+Com/Ecommerce/Configuration/ReadConfiguration.class
+Com/Ecommerce/Utilities/Listners.class
+Com/Ecommerce/Utilities/RetryAnalyzer.class
+Com/Ecommerce/BaseClas/Ecommerce_BaseClass.class

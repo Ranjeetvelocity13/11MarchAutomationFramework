@@ -1,0 +1,698 @@
+2023-07-21 00:56:55,702 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 00:56:56,128 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 00:56:59,499 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 00:57:00,121 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 00:57:02,409 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 00:57:05,518 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 00:57:05,525 [main] INFO 11March_Automation_Framework - Login test case pass
+2023-07-21 01:02:52,187 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:02:52,615 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:02:55,969 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:04:31,658 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:04:32,083 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:04:34,763 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:46:19,193 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:46:19,621 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:46:23,159 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:47:56,951 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:47:57,383 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:48:00,706 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:48:01,215 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 01:48:03,545 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 01:48:06,587 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 01:48:14,842 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:48:15,266 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:48:18,646 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:48:19,122 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 01:48:21,454 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 01:48:24,567 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 01:48:32,009 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:48:32,423 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:48:35,698 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:48:36,184 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 01:48:38,504 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 01:48:41,545 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 01:51:34,020 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:51:34,453 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:51:37,967 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:51:38,381 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 01:51:40,746 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 01:51:44,069 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 01:58:24,206 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:58:24,632 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:58:27,498 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:58:27,518 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 01:58:30,946 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 01:58:34,288 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 01:58:40,387 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 01:58:43,650 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 01:58:45,411 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 01:59:43,377 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 01:59:43,804 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 01:59:47,366 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 01:59:47,386 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 01:59:50,829 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 01:59:54,149 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 02:00:00,251 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 02:00:03,451 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 02:00:05,175 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 02:03:57,041 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 02:03:57,471 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 02:04:00,880 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 02:04:00,903 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 02:04:04,327 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 02:04:07,650 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 02:04:13,656 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 02:04:16,867 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 02:04:18,141 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 02:09:37,078 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 02:09:37,505 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 02:09:40,723 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 02:09:40,743 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 02:09:44,155 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 02:09:47,495 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 02:09:53,652 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 02:09:56,849 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 02:09:58,084 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 02:12:29,507 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 02:12:29,936 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 02:12:33,245 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 02:12:33,266 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 02:12:36,667 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 02:12:39,995 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 02:12:46,000 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 02:12:49,255 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 02:12:53,332 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 02:13:00,200 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 02:13:00,501 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 02:13:01,361 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 02:13:01,531 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 02:19:26,781 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 02:19:27,211 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 02:19:30,719 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 02:19:30,741 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 02:19:34,162 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 02:19:37,495 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 02:19:43,688 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 02:19:46,949 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 02:19:50,256 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 02:19:57,079 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 02:19:57,356 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 02:19:58,037 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 02:19:58,117 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 02:21:05,739 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 02:21:06,171 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 02:21:09,578 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 02:21:09,599 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 02:21:13,015 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 02:21:16,338 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 02:21:22,438 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 02:21:25,646 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 02:21:26,880 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 02:21:33,318 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 02:21:33,522 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 02:21:34,208 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 02:21:34,297 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 02:27:41,211 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 02:27:41,645 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 02:27:44,978 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 02:27:44,997 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 02:27:48,422 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 02:27:51,754 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 02:28:00,824 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 02:28:04,098 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 02:28:07,456 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 02:28:16,093 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 02:28:16,296 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 02:28:16,904 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 02:28:16,964 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 02:33:23,473 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 02:33:23,904 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 02:33:27,409 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 02:33:27,456 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 02:33:30,905 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 02:33:34,250 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 02:33:40,475 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 02:33:43,672 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 02:33:44,949 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 02:33:51,362 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 02:33:51,700 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 02:33:52,262 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 02:33:52,346 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 13:26:31,287 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 13:26:31,720 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 13:27:28,249 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 13:27:28,674 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 13:27:31,854 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 13:27:31,874 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 13:27:35,284 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 13:27:38,595 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 13:27:43,748 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 13:27:46,927 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 13:27:48,099 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 13:27:54,634 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 13:27:54,815 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 13:27:55,503 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 13:27:55,601 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 13:31:32,906 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 13:31:33,331 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 13:31:37,760 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 13:31:37,781 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 13:31:41,137 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 13:31:44,458 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 13:31:50,005 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 13:31:53,347 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 13:31:55,315 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 13:32:02,005 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 13:32:02,244 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 13:32:02,854 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 13:32:02,921 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 13:32:59,169 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 13:32:59,593 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 13:33:03,022 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 13:33:03,041 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 13:33:06,446 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 13:33:09,773 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 13:33:15,872 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 13:33:19,081 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 13:33:20,290 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 13:33:27,606 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 13:33:27,869 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 13:33:28,468 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 13:33:28,575 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 13:36:00,981 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 13:36:01,404 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 13:36:05,502 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 13:36:05,520 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 13:36:08,916 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 13:36:12,230 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 13:36:18,396 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 13:36:21,672 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 13:36:23,331 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 13:36:29,928 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 13:36:30,143 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 13:36:30,759 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 13:36:30,826 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 14:10:01,743 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:10:02,169 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:10:06,577 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:10:08,279 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:10:08,452 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 14:10:08,697 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 14:10:08,866 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 14:10:08,970 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 14:10:09,126 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 14:10:11,010 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:12:43,310 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:12:43,731 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:12:49,970 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:12:51,836 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:12:52,013 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 14:12:52,261 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 14:12:52,468 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 14:12:52,582 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 14:12:52,745 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 14:12:55,030 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:13:54,115 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:13:54,539 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:13:58,272 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:14:00,741 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:14:00,918 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 14:14:01,155 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 14:14:01,334 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 14:14:01,487 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 14:14:01,700 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 14:14:03,452 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:17:03,707 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:17:04,132 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:17:08,491 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:17:10,167 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:17:10,343 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 14:17:10,598 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 14:17:10,764 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 14:17:10,874 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 14:17:11,041 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 14:17:12,907 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:19:03,625 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:19:04,051 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:19:08,017 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:19:09,779 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:19:09,949 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 14:19:10,214 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 14:19:10,390 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 14:19:10,499 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 14:19:10,696 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 14:19:12,661 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:20:29,847 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:20:30,275 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:20:34,185 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:20:36,969 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:20:37,162 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 14:20:37,409 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 14:20:37,588 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 14:20:37,704 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 14:20:37,906 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 14:20:40,000 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:21:53,756 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:21:54,185 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:21:58,246 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:22:00,039 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:22:00,216 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 14:22:00,494 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 14:22:00,658 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 14:22:00,834 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 14:22:01,073 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 14:22:02,842 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:22:02,906 [main] INFO 11March_Automation_Framework - Registration test case pass
+2023-07-21 14:22:02,908 [main] INFO 11March_Automation_Framework - test cases completed
+2023-07-21 14:35:29,626 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:35:30,052 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:35:34,104 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:36:38,206 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:36:38,629 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:36:43,364 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:36:45,794 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:36:45,971 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 14:36:46,229 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 14:36:46,403 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 14:36:46,542 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 14:36:46,789 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 14:36:50,921 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 14:36:53,020 [main] INFO 11March_Automation_Framework - registration test case pass
+2023-07-21 14:44:02,508 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:44:02,933 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:44:07,179 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:44:07,195 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 14:44:10,574 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 14:44:13,888 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 14:44:19,297 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 14:44:58,508 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:44:58,932 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:45:02,691 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:45:02,710 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 14:45:06,093 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 14:45:09,404 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 14:45:14,906 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 14:45:30,198 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 14:47:39,852 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:47:40,273 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:47:44,270 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:47:44,290 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 14:47:47,689 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 14:47:51,000 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 14:47:56,597 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 14:49:16,785 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:49:17,210 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:49:21,517 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:49:21,538 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 14:49:24,901 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 14:49:28,055 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 14:50:53,744 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:50:54,165 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:50:57,823 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:50:57,841 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 14:51:01,257 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 14:51:04,647 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 14:51:11,383 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 14:51:14,740 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 14:51:16,455 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 14:51:23,043 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 14:51:23,311 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 14:51:23,976 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 14:51:24,093 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 14:51:24,345 [main] INFO 11March_Automation_Framework - Registration test case pass
+2023-07-21 14:53:23,578 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 14:53:24,002 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 14:53:28,024 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 14:53:28,040 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 14:53:31,458 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 14:53:34,807 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 14:53:41,160 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 14:53:44,368 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 14:53:45,604 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 14:53:52,310 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 14:53:52,530 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 14:53:53,304 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 14:53:53,400 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-21 14:53:53,665 [main] INFO 11March_Automation_Framework - Registration test case failed
+2023-07-21 19:43:52,498 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 19:43:52,926 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 19:43:57,069 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 19:43:57,092 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 19:44:00,930 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 19:44:04,532 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 19:44:10,922 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 19:54:20,451 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 19:54:20,879 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 19:54:24,106 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 19:54:26,503 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 19:54:26,670 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 19:54:26,938 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 19:54:27,167 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 19:54:27,303 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 19:54:27,503 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 19:54:29,600 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 19:54:31,657 [main] INFO 11March_Automation_Framework - registration test case pass
+2023-07-21 20:06:50,651 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 20:06:51,074 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 20:06:54,991 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 20:57:27,631 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 20:57:28,062 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 20:57:30,578 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 20:57:38,497 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 20:57:38,912 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 20:57:42,136 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 20:57:42,710 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 20:57:45,042 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 20:57:48,351 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 20:57:49,331 [main] INFO 11March_Automation_Framework - Login test case pass
+2023-07-21 20:57:56,780 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 20:57:57,195 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 20:58:00,574 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 20:58:00,980 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 20:58:03,322 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 20:58:05,624 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 20:58:05,635 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 20:58:13,104 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 20:58:13,524 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 20:58:16,927 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 20:58:17,310 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 20:58:19,648 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 20:58:21,135 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 20:58:21,142 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 20:58:28,636 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 20:58:29,053 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 20:58:32,654 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 20:58:33,015 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 20:58:35,358 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 20:58:37,617 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 20:58:37,626 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 21:00:42,002 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 21:00:42,433 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 21:00:48,454 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 21:00:49,056 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 21:00:51,401 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 21:00:54,403 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 21:00:55,342 [main] INFO 11March_Automation_Framework - Login test case pass
+2023-07-21 21:01:03,107 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 21:01:03,532 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 21:01:06,935 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 21:01:07,315 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 21:01:09,666 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 21:01:12,004 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 21:01:12,014 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 21:01:19,512 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 21:01:19,931 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 21:01:23,351 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 21:01:23,741 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 21:01:26,059 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 21:01:27,306 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 21:01:27,334 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 21:01:34,694 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 21:01:35,109 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 21:01:38,212 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 21:01:38,772 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 21:01:41,088 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 21:01:43,722 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 21:01:43,735 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 21:01:51,159 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 21:01:51,580 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 21:01:55,008 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:20:03,380 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:20:03,806 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:20:07,380 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:20:07,825 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 22:20:10,164 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 22:20:12,545 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 22:20:20,856 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:20:21,281 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:20:24,351 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:20:25,035 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 22:20:27,366 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 22:20:28,710 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 22:20:36,512 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:20:36,930 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:20:39,147 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:20:39,794 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 22:20:42,154 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 22:20:44,589 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 22:20:44,595 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 22:20:51,964 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:20:52,382 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:20:55,418 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:20:56,158 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 22:20:58,521 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 22:21:00,959 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 22:21:00,965 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 22:21:08,408 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:21:08,822 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:21:11,090 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:21:11,752 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 22:21:14,106 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 22:21:15,424 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 22:21:15,430 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 22:21:22,806 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:21:23,223 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:21:26,181 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:21:26,569 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 22:21:28,875 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 22:21:30,525 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 22:21:30,530 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 22:21:37,942 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:21:38,363 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:21:40,648 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:21:46,025 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 22:21:46,231 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 22:21:46,461 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 22:21:46,625 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 22:21:46,822 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 22:21:46,990 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 22:21:49,322 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 22:21:51,417 [main] INFO 11March_Automation_Framework - registration test case pass
+2023-07-21 22:21:58,911 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:21:59,332 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:22:01,940 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:22:25,453 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:22:25,880 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:22:28,933 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:23:25,902 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:23:26,320 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:23:28,580 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:23:28,591 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 22:23:32,005 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 22:23:35,350 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 22:23:39,684 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 22:24:05,285 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 22:24:05,706 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 22:24:08,560 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 22:24:08,569 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 22:24:11,963 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 22:24:15,274 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 22:24:20,648 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 23:01:14,313 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:01:14,739 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:01:17,551 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:01:18,062 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:16:47,206 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:16:47,632 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:16:51,183 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:16:51,628 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:16:53,968 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:16:55,321 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:17:03,035 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:17:03,452 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:17:05,977 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:17:06,471 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:17:08,789 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:17:11,187 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:19:33,929 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:19:34,356 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:19:38,241 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:19:38,653 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:19:40,963 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:19:43,304 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:19:51,019 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:19:51,440 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:19:53,963 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:19:54,479 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:19:56,789 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:19:58,195 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:26:03,158 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:26:03,587 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:26:06,854 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:26:07,525 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:26:09,886 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:26:13,416 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:26:13,423 [main] INFO 11March_Automation_Framework - Login test case pass
+2023-07-21 23:35:47,033 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:35:47,460 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:35:50,785 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:35:51,417 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:35:53,755 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:35:57,275 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:35:57,283 [main] INFO 11March_Automation_Framework - Login test case pass
+2023-07-21 23:37:34,461 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:37:34,891 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:37:38,315 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:37:38,859 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:37:41,196 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:37:44,784 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:37:44,793 [main] INFO 11March_Automation_Framework - Login test case pass
+2023-07-21 23:37:53,173 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:37:53,588 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:37:56,913 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:37:57,439 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:37:59,779 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:38:02,193 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:38:10,137 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:38:10,553 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:38:13,951 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:38:14,322 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:38:16,661 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:38:18,032 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:38:25,802 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:38:26,221 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:38:28,773 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:38:29,265 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:38:31,582 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:38:33,945 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:38:33,951 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 23:38:41,351 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:38:41,772 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:38:44,103 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:38:44,748 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:38:47,087 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:38:48,441 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:38:48,445 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 23:38:55,851 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:38:56,265 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:38:59,021 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:38:59,406 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:39:01,705 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:39:04,096 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:39:04,101 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 23:39:11,484 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:39:11,898 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:39:14,250 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:39:14,827 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-21 23:39:17,144 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-21 23:39:18,494 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-21 23:39:18,501 [main] INFO 11March_Automation_Framework - Login test case failed
+2023-07-21 23:39:25,897 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:39:26,318 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:39:29,591 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:39:32,078 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 23:39:32,245 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-21 23:39:32,471 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-21 23:39:32,639 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-21 23:39:32,767 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-21 23:39:32,948 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-21 23:39:34,724 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-21 23:39:36,789 [main] INFO 11March_Automation_Framework - registration test case pass
+2023-07-21 23:41:54,197 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:41:54,738 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:41:58,150 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:42:53,962 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-21 23:42:54,384 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-21 23:42:56,899 [main] INFO 11March_Automation_Framework - Open application
+2023-07-21 23:42:56,913 [main] INFO 11March_Automation_Framework - Open URL
+2023-07-21 23:43:00,327 [main] INFO 11March_Automation_Framework - Enter user mailL
+2023-07-21 23:43:03,663 [main] INFO 11March_Automation_Framework - Enter User password
+2023-07-21 23:43:08,890 [main] INFO 11March_Automation_Framework - Clicked on longin button
+2023-07-21 23:43:12,104 [main] INFO 11March_Automation_Framework - Mouseover on computer
+2023-07-21 23:43:13,402 [main] INFO 11March_Automation_Framework - Clicked on NotebookText
+2023-07-21 23:43:19,993 [main] INFO 11March_Automation_Framework - Product selected
+2023-07-21 23:43:20,190 [main] INFO 11March_Automation_Framework - Add to cart
+2023-07-21 23:43:20,850 [main] INFO 11March_Automation_Framework - Verified message
+2023-07-21 23:43:20,902 [main] INFO 11March_Automation_Framework - Clciked on close Tab
+2023-07-23 11:17:43,663 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-23 11:17:44,097 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-23 11:17:47,520 [main] INFO 11March_Automation_Framework - Open application
+2023-07-23 11:17:47,915 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-23 11:17:50,224 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-23 11:17:51,927 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-23 11:17:59,654 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-23 11:18:00,073 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-23 11:18:03,341 [main] INFO 11March_Automation_Framework - Open application
+2023-07-23 11:18:03,910 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-23 11:18:06,100 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-23 11:18:09,244 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-23 11:18:18,328 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-23 11:18:18,746 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 19:17:55,391 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 19:17:55,815 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 19:17:59,684 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 19:18:00,223 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-24 19:18:20,366 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 19:18:20,788 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 19:18:24,522 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 19:18:24,955 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-24 19:18:27,272 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-24 19:18:30,116 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-24 19:18:37,517 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 19:18:37,959 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 19:18:41,531 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 19:18:42,051 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-24 19:18:44,386 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-24 19:18:47,322 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-24 20:07:08,897 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:07:09,328 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:07:12,712 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 20:07:13,290 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-24 20:07:15,644 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-24 20:07:18,522 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-24 20:07:26,308 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:07:26,728 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:07:30,444 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 20:07:30,810 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-24 20:07:33,136 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-24 20:07:35,810 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-24 20:07:44,754 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:07:45,164 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:07:46,722 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 20:15:46,817 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:15:47,242 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:15:55,513 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 20:15:55,951 [main] INFO 11March_Automation_Framework - Enter the user email
+2023-07-24 20:15:58,330 [main] INFO 11March_Automation_Framework - Enter the user password
+2023-07-24 20:16:01,196 [main] INFO 11March_Automation_Framework - Click on the login button
+2023-07-24 20:16:09,113 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:16:09,530 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:16:57,763 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:16:58,203 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:17:01,540 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 20:17:03,904 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-24 20:17:04,075 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-24 20:17:04,316 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-24 20:17:04,527 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-24 20:17:04,634 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-24 20:17:04,780 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-24 20:17:06,589 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-24 20:17:08,684 [main] INFO 11March_Automation_Framework - registration test case pass
+2023-07-24 20:17:16,151 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:17:16,569 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:17:24,757 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 20:25:33,501 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:25:33,930 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:25:37,022 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 20:25:39,831 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-24 20:25:40,056 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-24 20:25:40,348 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-24 20:25:40,524 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-24 20:25:40,645 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-24 20:25:40,801 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-24 20:25:41,726 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-24 20:25:51,182 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:25:51,603 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:25:55,062 [main] INFO 11March_Automation_Framework - Open application
+2023-07-24 20:25:57,266 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-24 20:25:57,445 [main] INFO 11March_Automation_Framework - Select gender
+2023-07-24 20:25:57,668 [main] INFO 11March_Automation_Framework - Enter users first name
+2023-07-24 20:25:57,841 [main] INFO 11March_Automation_Framework - Enter users Last name
+2023-07-24 20:25:57,997 [main] INFO 11March_Automation_Framework - Enter users mailid
+2023-07-24 20:25:58,162 [main] INFO 11March_Automation_Framework - Enter users password
+2023-07-24 20:25:59,748 [main] INFO 11March_Automation_Framework - Click on the registration tab
+2023-07-24 20:26:01,840 [main] INFO 11March_Automation_Framework - registration test case pass
+2023-07-24 20:26:09,214 [main] INFO 11March_Automation_Framework - Open browser
+2023-07-24 20:26:09,642 [main] INFO 11March_Automation_Framework - Maximize the browser
+2023-07-24 20:26:12,371 [main] INFO 11March_Automation_Framework - Open application
